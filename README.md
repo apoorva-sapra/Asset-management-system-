@@ -1,2 +1,2 @@
-# Asset-management-system-
-An asset management system using C#
+# Asset Manager
+An asset manager using C#
