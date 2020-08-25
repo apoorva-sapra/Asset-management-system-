@@ -1,0 +1,364 @@
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.csprojAssemblyReference.cache
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorAssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.AssemblyInfoInputs.cache
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.AssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.TagHelpers.input.cache
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.TagHelpers.output.cache
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorCoreGenerate.cache
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\AddBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\DelBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\NFound.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\SearchBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\AddHardware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\DelHardware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\NFound.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\SearchHardware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\AddSoftware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\DelSoftware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\NFound.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\SearchSoftware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorTargetAssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.pdb
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.exe
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.deps.json
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.runtimeconfig.json
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.runtimeconfig.dev.json
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.pdb
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.Views.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.Views.pdb
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.Views.pdb
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.csproj.CopyComplete
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\staticwebassets\ConsumeWebApi.StaticWebAssets.Manifest.cache
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\staticwebassets\ConsumeWebApi.StaticWebAssets.xml
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\UpdateBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Extensions.dll
+C:\Users\apoorva.sapra\Desktop\week8\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Primitives.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.exe
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.deps.json
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.runtimeconfig.json
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.runtimeconfig.dev.json
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.pdb
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.Views.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.Views.pdb
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.csprojAssemblyReference.cache
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorAssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.AssemblyInfoInputs.cache
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.AssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.TagHelpers.input.cache
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.TagHelpers.output.cache
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorCoreGenerate.cache
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListUsers.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ShowRequests.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\AddBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\UpdateBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\AddHardware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\UpdateHardware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\AddSoftware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\UpdateSoftware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorTargetAssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.Views.pdb
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.csproj.CopyComplete
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\staticwebassets\ConsumeWebApi.StaticWebAssets.Manifest.cache
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\staticwebassets\ConsumeWebApi.StaticWebAssets.xml
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.dll
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.pdb
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\User\CreateRequest.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8 - Copy\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\User\CheckStatus.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.exe
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.deps.json
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.runtimeconfig.json
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.runtimeconfig.dev.json
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.pdb
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.Views.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.Views.pdb
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.csprojAssemblyReference.cache
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorAssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.AssemblyInfoInputs.cache
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.AssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.TagHelpers.input.cache
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.TagHelpers.output.cache
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorCoreGenerate.cache
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListUsers.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ShowRequests.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\AddBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\UpdateBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\AddHardware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\UpdateHardware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\AddSoftware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\UpdateSoftware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\User\CheckStatus.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\User\CreateRequest.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorTargetAssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.Views.pdb
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.csproj.CopyComplete
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\staticwebassets\ConsumeWebApi.StaticWebAssets.Manifest.cache
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\staticwebassets\ConsumeWebApi.StaticWebAssets.xml
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.dll
+C:\Users\apoorva.sapra\Desktop\week8and9\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.pdb
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.exe
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.deps.json
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.runtimeconfig.json
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.runtimeconfig.dev.json
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.pdb
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.Views.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\ConsumeWebApi.Views.pdb
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\dotnet-ef.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.csprojAssemblyReference.cache
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorAssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.AssemblyInfoInputs.cache
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.AssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.TagHelpers.input.cache
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.TagHelpers.output.cache
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorCoreGenerate.cache
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListUsers.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ShowRequests.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\AddBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Book\UpdateBook.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\AddHardware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Hardware\UpdateHardware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\AddSoftware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\Index.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Software\UpdateSoftware.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\User\CheckStatus.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\User\CreateRequest.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.RazorTargetAssemblyInfo.cs
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.Views.pdb
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.csproj.CopyComplete
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\staticwebassets\ConsumeWebApi.StaticWebAssets.Manifest.cache
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\staticwebassets\ConsumeWebApi.StaticWebAssets.xml
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.dll
+C:\Users\apoorva.sapra\Desktop\week 10\week10\ConsumeWebApi\obj\Debug\netcoreapp3.1\ConsumeWebApi.pdb

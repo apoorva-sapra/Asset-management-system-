@@ -1,0 +1,43 @@
+@model IList<ConsumeWebApi.Models.Request>
+@{
+    ViewBag.Title = "All Requests";
+}
+
+@if(ViewBag.Message=="No request has been sent by you")
+{
+    <h3 style="text-align: center;" class="text-danger">@ViewBag.Message</h3>
+}
+else
+{
+    <h3 style="text-align: center;color:darkblue">Request Details</h3><br><br>
+    <div>
+    <table class="table table-dark">
+        <thead class="btn-info">
+            <th>Request Id</th>
+            <th>Asset Id</th>
+            <th>Asset Type</th>
+            <th>User Name</th>
+            <th>Status</th>
+        </thead>
+        <tbody>
+            @foreach (var request in Model)
+            { 
+                <tr>
+                    <td>@request.requestId</td>
+                    <td>@request.assetId</td>
+                    <td>@request.assetType</td>
+                    <td>@request.userId</td>
+                    <th>@request.requestStatus</th>
+                </tr>        
+            } 
+
+        </tbody>
+    </table>
+    </div>
+}
+
+    <div class="row">
+        <div class="col-sm-6 text-right" >
+            <a >@Html.ActionLink("Home","Index","Home")</a>
+        </div>  
+    </div>

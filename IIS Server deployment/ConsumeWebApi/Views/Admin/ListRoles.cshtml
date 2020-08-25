@@ -1,0 +1,33 @@
+@model IEnumerable<IdentityRole>
+
+@{
+    ViewBag.Title = "All Roles";
+}
+
+<h1 style="text-align: center;">All Roles</h1>
+@if (Model.Any())
+{
+
+    <a class="btn btn-primary mb-3" style="width:auto" asp-controller="home" asp-action="index">Home</a>
+    foreach (var role in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-header">
+                Role
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">@role.Name</h5>
+            </div>
+            
+        </div>
+    }
+}
+else
+{
+    <div class="card">
+        <div class="card-header">
+            No roles created yet
+        </div>
+        
+    </div>
+}

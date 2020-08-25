@@ -1,0 +1,54 @@
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject RoleManager<IdentityRole> RoleManager;
+    @model IEnumerable<ConsumeWebApi.Models.Hardware>
+@{
+    ViewData["Title"]="Hardwares";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+<h1>List of all Hardware</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th> @Html.DisplayNameFor(Model=>Model.id)</th>
+            <th> @Html.DisplayNameFor(Model=>Model.name)</th>
+            <th> @Html.DisplayNameFor(Model=>Model.brand) </th>
+            <th> @Html.DisplayNameFor(Model=>Model.model)</th>
+            <th> @Html.DisplayNameFor(Model=>Model.price)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(ModelItem=>item.id)</td>
+                <td>@Html.DisplayFor(ModelItem=>item.name)</td>
+                <td>@Html.DisplayFor(ModelItem=>item.brand)</td>
+                <td>@Html.DisplayFor(ModelItem=>item.model)</td>
+                <td>@Html.DisplayFor(ModelItem=>item.price)</td>
+          
+            <td>
+           @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+            {   
+            @Html.ActionLink("Update | ", "UpdateHardware", new { id=item.id });
+            
+            @Html.ActionLink("Delete ", "Delete", new { id = item.id});
+            }
+            else if(SignInManager.IsSignedIn(User))
+            {
+           <a asp-controller="User" asp-action="CreateRequest" asp-route-userId="@User.Identity.Name" asp-route-assetId="@item.id" asp-route-assetType="@item.assetType"><p>Request</p></a> @* @Html.ActionLink("Request", "CreateRequest","User", new { assetId = item.id}) *@
+            } 
+
+        </td>
+        </tr>
+        <tr>
+            <td>
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        </td>
+        </tr>
+        }
+        <tfoot></tfoot>
+    </tbody>
+</table> 
+
