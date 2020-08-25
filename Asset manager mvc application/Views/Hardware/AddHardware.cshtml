@@ -1,0 +1,46 @@
+  @model AssetManagement.Models.Hardware
+
+  @using (Html.BeginForm())
+  {
+      @Html.ValidationSummary(true)
+      <fieldset>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.id)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.id)
+              @Html.ValidationMessageFor(model=>model.id)
+          </div>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.name)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.name)
+              @Html.ValidationMessageFor(model=>model.name)
+          </div>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.model)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.model)
+              @Html.ValidationMessageFor(model=>model.model)
+          </div>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.brand)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.brand)
+              @Html.ValidationMessageFor(model=>model.brand)
+          </div>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.price)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.price)
+              @Html.ValidationMessageFor(model=>model.price)
+          </div>
+          <input type ="submit" class= "btn btn-primary" value =" Add"/>
+      </fieldset>
+      <a asp-controller="Book" asp-action="AddBook" type="submit">Clear</a> 
+  }
+

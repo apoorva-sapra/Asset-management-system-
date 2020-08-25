@@ -1,0 +1,82 @@
+@model AssetManagement.ViewModel.AllViewModel
+@{
+    ViewData["Title"]="All Assets";
+}
+<h2>List of all assets</h1>
+<h3>Books</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Asset Id</th>
+            <th> Name</th>
+            <th> Author</th>
+            <th> Edition</th>
+            <th> Price</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var book in Asset.BookList)
+        {
+            <tr>
+                <td>@book.id</td>
+                <td>@book.name</td>
+                <td>@book.author</td>
+                <td>@book.edition</td>
+                <td>@book.price</td>
+            </tr>
+        }
+         
+        <tfoot></tfoot>
+    </tbody>
+</table>
+
+<h3>Hardwares</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Asset Id</th>
+            <th> Name</th>
+            <th> Model </th>
+            <th> Brand</th>
+            <th> Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hardware in Asset.HardwareList)
+        {
+            <tr>
+                <td>@hardware.id</td>
+                <td>@hardware.name</td>
+                <td>@hardware.model</td>
+                <td>@hardware.brand</td>
+                <td>@hardware.price</td>
+            </tr>
+        }
+        <tfoot></tfoot>
+    </tbody>
+</table> 
+<h3>Softwares</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Asset Id</th>
+            <th> Name</th>
+            <th> Provider </th>
+            <th> Version</th>
+            <th> Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var software in Asset.SoftwareList)
+        {
+            <tr>
+                <td>@software.id</td>
+                <td>@software.name</td>
+                <td>@software.provider</td>
+                <td>@software.version</td>
+                <td>@software.price</td>
+            </tr>
+        }
+        <tfoot></tfoot>
+    </tbody>
+</table> 

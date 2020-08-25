@@ -1,0 +1,16 @@
+@model AssetManagement.Models.Hardware
+
+   @using (Html.BeginForm())
+  {
+      @Html.ValidationSummary(true)
+      <fieldset>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.id)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.id)
+              @Html.ValidationMessageFor(model=>model.id)
+          </div>
+          <input type ="submit" class= "btn btn-primary" value ="Search"/>
+      </fieldset>
+  }
