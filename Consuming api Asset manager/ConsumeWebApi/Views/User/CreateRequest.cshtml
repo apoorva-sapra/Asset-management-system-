@@ -1,0 +1,43 @@
+@model IEnumerable<ConsumeWebApi.Models.Request>
+@{
+    ViewData["Title"]="Requests";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h2 style="text-align: center;" class="text-success">Request sent successfully!</h3>
+
+<h3 style="text-align: center;color:darkblue">Request Details</h3><br><br>
+<div>
+    <table class="table table-dark">
+        <thead class="btn-info">
+            <th>Request Id</th> 
+            <th>Asset Id</th>
+            <th>Asset Type</th>
+            <th>User Id</th>
+            <th>Request Status</th>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.requestId</td> 
+                    <td>@item.assetId</td>
+                    <td>@item.assetType</td>
+                    <td>@item.userId</td>
+                    <td>@item.requestStatus</td>
+                </tr>
+                
+            }
+
+                    </tbody>
+                </table>
+                <div class="row">
+                    <div class="col-sm-6 text-right" >
+                        <a style="color: black;">@Html.ActionLink("Back","Index","Home")</a>
+                    </div>  
+                </div>
+            </div>
+        }
+    }
+}

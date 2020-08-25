@@ -1,0 +1,134 @@
+﻿
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject RoleManager<IdentityRole> RoleManager;
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AssetManagement</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">AssetManagement</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                       
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                         @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                            {
+                          <li class="nav-item dropdown">
+                            <a class="nav-link text-dark dropdown-toggle" data-toggle="dropdown" >Create Asset</a>
+                            <span class="caret"></span>
+                            <ul class="dropdown-menu">
+                                <li><a asp-controller="Book" asp-action="AddBook">Books</a></li>
+                                <li><a asp-controller="Software" asp-action="AddSoftware">Software License</a></li>
+                                <li><a asp-controller="Hardware" asp-action="AddHardware">Hardwares</a></li>
+                            </ul>
+                            </li>
+                            }
+                       
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-dark" asp-controller="Book" asp-action="Index">Books</a>
+                        </li>
+                          <li class="nav-item dropdown">
+                            <a class="nav-link text-dark" asp-controller="Hardware" asp-action="Index">Hardwares</a>
+                        </li>
+                          <li class="nav-item dropdown">
+                            <a class="nav-link text-dark" asp-controller="Software" asp-action="Index">Softwares</a>
+                        </li>
+                    </ul>
+                    </div>
+                    <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                         @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                            {
+                             <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Admin" asp-action="ShowRequests">Show Requests</a>
+                             </li>
+                          <li class="nav-item dropdown">
+                            <a class="nav-link text-dark dropdown-toggle" data-toggle="dropdown">  Manage</a>
+                             <span class="caret"></span>
+                            
+                                <ul class="dropdown-menu">
+                                    <li><a asp-controller="Admin" asp-action="ListUsers">Users</a></li>
+                                    <li><a asp-controller="Admin" asp-action="ListRoles">Roles</a></li>
+                                </ul>
+                            </li>
+                            }
+                              else if(SignInManager.IsSignedIn(User))
+                                {
+                            
+                                    <a style="margin-right: 20px;" class="nav-link text-dark"
+                                    asp-action="CheckStatus" asp-controller="User" 
+                                    >Check Status</a>
+                                }
+                                            
+                            </ul>
+                    </div>
+
+                    <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                     <div  class="collapse navbar-collapse">
+                        <ul class="navbar-nav ml-auto">  
+                          @* @if (ViewBag.IsSignedIn=="true") *@
+                           @if (User.Identity.IsAuthenticated)
+                                    {
+                                        <li class="nav-item">
+                                            <form method="post" asp-controller="account" asp-action="logout">
+                                                <button type="submit" style="width:auto"
+                                                        class="nav-link btn btn-link py-0">
+                                                    Logout @User.Identity.Name
+                                                </button>
+                                            </form>
+                                        </li>
+                                    }
+                                    else
+                                    {
+                                       
+                                        <li class="nav-item">
+                                            <a class="nav-link" asp-controller="Account" asp-action="Register">
+                                                Register
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" asp-controller="Account" asp-action="Login">
+                                                Login
+                                            </a>
+                                        </li>
+                                    }
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 - AssetManagement - <a asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
