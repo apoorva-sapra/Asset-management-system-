@@ -1,0 +1,266 @@
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\appsettings.json
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.exe
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.deps.json
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.runtimeconfig.json
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.runtimeconfig.dev.json
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.pdb
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.assert.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.core.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.pdb
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.csprojAssemblyReference.cache
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.AssemblyInfoInputs.cache
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.AssemblyInfo.cs
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.csproj.CopyComplete
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.pdb
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+c:\Users\apoorva.sapra\Desktop\week 10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\appsettings.json
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.exe
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.deps.json
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.runtimeconfig.json
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.runtimeconfig.dev.json
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.Tests.pdb
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.assert.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.core.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\bin\Debug\netcoreapp3.1\AssetManagement.pdb
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.csprojAssemblyReference.cache
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.AssemblyInfoInputs.cache
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.AssemblyInfo.cs
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.csproj.CopyComplete
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.dll
+c:\Users\apoorva.sapra\Desktop\.net-assignments-for-apoorva-sapra\week10\week10\AssetManagement.Tests\obj\Debug\netcoreapp3.1\AssetManagement.Tests.pdb

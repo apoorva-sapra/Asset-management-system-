@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement.Tests\\AssetManagement.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement.Tests\\AssetManagement.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement.Tests\\AssetManagement.Tests.csproj",
+        "projectName": "AssetManagement.Tests",
+        "projectPath": "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement.Tests\\AssetManagement.Tests.csproj",
+        "packagesPath": "C:\\Users\\apoorva.sapra\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\apoorva.sapra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement\\AssetManagement.csproj": {
+                "projectPath": "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement\\AssetManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement\\AssetManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement\\AssetManagement.csproj",
+        "projectName": "AssetManagement",
+        "projectPath": "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement\\AssetManagement.csproj",
+        "packagesPath": "C:\\Users\\apoorva.sapra\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\apoorva.sapra\\Desktop\\.net-assignments-for-apoorva-sapra\\week10\\week10\\AssetManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\apoorva.sapra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.tools": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
