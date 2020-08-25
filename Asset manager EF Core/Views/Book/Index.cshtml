@@ -1,0 +1,30 @@
+@model AssetManagement.ViewModel.AllViewModel
+@{
+    ViewData["Title"]="Books";
+}
+
+<h1>List of all Books</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Asset Id</th>
+            <th> Name</th>
+            <th> Author </th>
+            <th> Edition</th>
+            <th> Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.books)
+        {
+            <tr>
+                <td>@book.id</td>
+                <td>@book.name</td>
+                <td>@book.author</td>
+                <td>@book.edition</td>
+                <td>@book.price</td>
+            </tr>
+        }
+        <tfoot></tfoot>
+    </tbody>
+</table> 

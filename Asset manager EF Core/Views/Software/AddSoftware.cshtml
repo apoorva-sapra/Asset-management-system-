@@ -1,0 +1,46 @@
+  @model AssetManagement.Models.Software
+
+   @using (Html.BeginForm())
+  {
+      @Html.ValidationSummary(true)
+      <fieldset>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.id)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.id)
+              @Html.ValidationMessageFor(model=>model.id)
+          </div>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.name)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.name)
+              @Html.ValidationMessageFor(model=>model.name)
+          </div>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.provider)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.provider)
+              @Html.ValidationMessageFor(model=>model.provider)
+          </div>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.version)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.version)
+              @Html.ValidationMessageFor(model=>model.version)
+          </div>
+          <div class="editor-label">
+              @Html.LabelFor(model=>model.price)
+          </div>
+          <div class="editor-label">
+              @Html.EditorFor(model=>model.price)
+              @Html.ValidationMessageFor(model=>model.price)
+          </div>
+          <input type ="submit" class= "btn btn-primary" value ="Add"/>
+      </fieldset>
+      <a asp-controller="Software" asp-action="AddSoftware" type="submit">Clear</a> 
+  }
+

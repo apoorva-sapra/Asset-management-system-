@@ -1,0 +1,30 @@
+@model AssetManagement.ViewModel.AllViewModel
+@{
+    ViewData["Title"]="Softwares";
+}
+
+<h1>List of all Softwares</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Asset Id</th>
+            <th> Name</th>
+            <th> Provider </th>
+            <th> Version</th>
+            <th> Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var software in Model.softwares)
+        {
+            <tr>
+                <td>@software.id</td>
+                <td>@software.name</td>
+                <td>@software.provider</td>
+                <td>@software.version</td>
+                <td>@software.price</td>
+            </tr>
+        }
+        <tfoot></tfoot>
+    </tbody>
+</table> 

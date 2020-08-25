@@ -1,0 +1,27 @@
+@model IEnumerable<AssetManagement.Models.Asset>
+
+<h1>List of all Hardwares</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Asset Id</th>
+            <th> Name</th>
+            <th> Model </th>
+            <th> Brand</th>
+            <th> Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hardware in Asset.HardwareList)
+        {
+            <tr>
+                <td>@hardware.id</td>
+                <td>@hardware.name</td>
+                <td>@hardware.model</td>
+                <td>@hardware.brand</td>
+                <td>@hardware.price</td>
+            </tr>
+        }
+        <tfoot></tfoot>
+    </tbody>
+</table> 
